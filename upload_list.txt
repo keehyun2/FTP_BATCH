@@ -1,0 +1,17 @@
+WEB-INF/classes/kr/co/company/mapper/cmm/util/cubrid/OtherDB_SQL_Cubrid.xml
+WEB-INF/classes/kr/co/company/mapper/project/receiptDistrib/cubrid/ReceiptDistrib_SQL_Cubrid.xml
+WEB-INF/classes/kr/co/company/mapper/project/sttusbrd/cubrid/SttusBrd_SQL_Cubrid.xml
+
+WEB-INF/classes/kr/co/company/project/sttusbrd/web/SttusBrdController.class
+WEB-INF/classes/kr/co/company/view/project/view-mapping-sttusBrd.xml
+
+js/company/project/indivadr/factinvest/factInvest.js
+js/company/project/popup/atchfileUpdatePopup.js
+js/company/project/popup/historyCreatePopup.js
+js/company/project/sttusbrd/sttusBrd.js
+
+
+WEB-INF/jsp/company/project/sttusbrd/sttusBrdUpdate.jsp
+WEB-INF/jsp/company/project/sttusbrd/sttusBrdUpdatePopup.jsp
+WEB-INF/tiles/company/project/header/header.jsp
+
